@@ -76,3 +76,5 @@ crashlytics-build.properties
 
 
 *.vs
+*.Assets/Character\ library-20231117T162043Z-001/
+
